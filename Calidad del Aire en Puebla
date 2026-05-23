@@ -209,8 +209,6 @@
         "print(pnd)\n",
         "###Datos totales en la lista de Estados Completos\n",
         "print(m)\n",
-        "datos\n",
-        "print(E_C)\n",
         "\n"
       ]
     },
@@ -969,8 +967,6 @@
         "print(T)\n",
         "print(pnd)\n",
         "print(m)\n",
-        "datos\n",
-        "print(E_C)\n",
         "\n"
       ]
     },
@@ -1306,8 +1302,6 @@
         "print(T)\n",
         "print(pnd)\n",
         "print(m)\n",
-        "datos\n",
-        "print(E_C)\n"
       ]
     },
     {
@@ -2064,8 +2058,6 @@
         "print(T)\n",
         "print(pnd)\n",
         "print(m)\n",
-        "datos\n",
-        "print(E_C)"
       ]
     },
     {
@@ -2395,8 +2387,6 @@
         "print(T)\n",
         "print(pnd)\n",
         "print(m)\n",
-        "datos\n",
-        "print(E_C)\n"
       ]
     },
     {
@@ -3153,8 +3143,6 @@
         "print(T)\n",
         "print(pnd)\n",
         "print(m)\n",
-        "datos\n",
-        "print(E_C)"
       ]
     },
     {
